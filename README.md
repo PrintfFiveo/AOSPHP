@@ -4,8 +4,6 @@ só alguns codigos para atitudinal de php
 
 
 ###  <?php
-
-  ##    
     
     $pessoa = [
     
@@ -58,7 +56,7 @@ mas serio q bagulho tonto
            echo $i;
                } 
          }
-     echo "os numeros de de 1 a 10:\n";
+     echo "os numeros de 1 a 10:\n";
         conta()
          ?>
 

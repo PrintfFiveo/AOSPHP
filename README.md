@@ -53,9 +53,9 @@ mas serio q bagulho tonto
         <?php
 
 
-    function conta() { 
-     for ($i = 1;$i <11; $i++){
-      echo $i;
+       function conta() { 
+          for ($i = 1;$i <11; $i++){
+           echo $i;
                } 
          }
      echo "os numeros de de 1 a 10:\n";
@@ -69,24 +69,12 @@ mas serio q bagulho tonto
 
            ?>
 
-           era só fazer isso  😧 pra q toda essa dor e sofrimento galerinha
-    dor de cabeca free a seguir ==>
-
-
-    <php   
-       function conta() {
-        for ($i=1;$i<11;$i++){
-           $i==$i+1;
-                echo "$i, ";
-      }
-        echo "os numeros de de 1 a 10:\n";
-        conta()
-         ?>
 
 
 
 
-    <?php
+
+        
      function ordem() {
     $frutas = array( "limão", "tangerina", "uva", "mamão", "maçã"
         );
